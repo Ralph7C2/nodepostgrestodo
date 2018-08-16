@@ -1,10 +1,6 @@
 {
   "development": {
-    "username": "ralph",
-    "password": "EequalsMC2",
-    "database": "nodo-todo",
-    "host": "127.0.0.1",
-    "dialect": "postgres"
+    "use_env_variable": "DATABASE_CONNECTION"
   },
   "test": {
     "username": "root",
